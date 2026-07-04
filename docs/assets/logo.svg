@@ -1,0 +1,8 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Oma Opetuslupa">
+  <rect width="48" height="48" rx="13" fill="#4f46e5"/>
+  <circle cx="24" cy="24" r="12.5" stroke="#fff" stroke-width="2.6" fill="none"/>
+  <circle cx="24" cy="24" r="3.4" fill="#fff"/>
+  <path d="M24 11.5V20.6" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M13.6 30.2 21 25.7" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M34.4 30.2 27 25.7" stroke="#fff" stroke-width="2.6" stroke-linecap="round"/>
+</svg>

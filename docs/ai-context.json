@@ -1,0 +1,39 @@
+{
+  "project": "Oma Opetuslupa",
+  "url": "https://trainingskills.github.io/ajolupa-materiaalit/",
+  "language": "fi",
+  "summary": "Opetuslupa-ajon oppimissivusto, joka yhdistaa tunnit 1-10, ajotuntien seurannan ja E100-valmistautumisen yhteen polkuun.",
+  "coreTopics": [
+    "Opetuslupa-ajo",
+    "Ajotunnit ja eteneminen",
+    "E100-todistus",
+    "Liikennesaannot",
+    "Paikallinen Olli-avustaja"
+  ],
+  "audience": [
+    "Oppilas",
+    "Opetuslupaopettaja"
+  ],
+  "resources": [
+    {
+      "type": "LearningPath",
+      "name": "Tunnit 1-10",
+      "description": "Asteittainen harjoittelupolku opetuslupa-ajoon."
+    },
+    {
+      "type": "Guide",
+      "name": "E100-valmistautuminen",
+      "description": "Ajotuntien seuranta ja todistuksen muodostaminen."
+    },
+    {
+      "type": "FAQ",
+      "name": "Usein kysytyt kysymykset",
+      "description": "Ytimekkaat vastaukset opetuslupa-ajon keskeisiin kysymyksiin."
+    }
+  ],
+  "contact": {
+    "email": "oma.opetuslupa.4h@gmail.com",
+    "waitlist": "mailto:oma.opetuslupa.4h@gmail.com?subject=Oma%20Opetuslupa%20-%20jonotuslista"
+  },
+  "lastUpdated": "2026-07-08"
+}

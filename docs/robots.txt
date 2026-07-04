@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trainingskills.github.io/ajolupa-materiaalit/sitemap.xml

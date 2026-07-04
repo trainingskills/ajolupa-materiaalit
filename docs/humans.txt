@@ -1,0 +1,10 @@
+/* TEAM */
+Product: Oma Opetuslupa
+Maintainer: Training Skills
+Contact: oma.opetuslupa.4h@gmail.com
+Location: Finland
+
+/* SITE */
+URL: https://trainingskills.github.io/ajolupa-materiaalit/
+Stack: HTML, CSS, Vanilla JavaScript, GitHub Pages
+Content focus: Opetuslupa-ajon oppimateriaalit (tunnit 1-10), E100-valmistautuminen, paikallinen Olli-avustaja
