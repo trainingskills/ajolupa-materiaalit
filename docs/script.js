@@ -60,22 +60,4 @@
   /* ---- year ---- */
   var y = document.getElementById("year");
   if (y) y.textContent = String(new Date().getFullYear());
-
-  /* ---- Olli chat typing animation ---- */
-  var typingEl = document.getElementById("olli-typing");
-  var replyEl  = document.getElementById("olli-reply");
-  if (typingEl && replyEl) {
-    var chatObserver = new IntersectionObserver(function(entries) {
-      entries.forEach(function(en) {
-        if (en.isIntersecting) {
-          chatObserver.unobserve(en.target);
-          setTimeout(function() {
-            typingEl.style.display = "none";
-            replyEl.style.display  = "flex";
-          }, 2000);
-        }
-      });
-    }, { threshold: 0.5 });
-    chatObserver.observe(typingEl);
-  }
 })();
