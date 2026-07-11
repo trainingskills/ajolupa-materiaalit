@@ -1,0 +1,37 @@
+[
+  {
+    "id": "yoajokielto-17v",
+    "otsikko": "Uusi laki: Yöajo on nyt kielletty 17-vuotiailta!",
+    "sisalto": "Hallituksen uusi ajokorttilaki astui voimaan 29.5.2026. Jos saat kortin 17-vuotiaana poikkeusluvalla, et saa ajaa autoa klo 00–05 välisenä aikana. Kielto koskee kaikkia 17-vuotiaita. Rangaistuksena on sakko ja ajokielto.",
+    "pvm": "2026-05-29",
+    "lahde": "https://www.traficom.fi/fi/ajankohtaista"
+  },
+  {
+    "id": "kuljettajan-tunnus",
+    "otsikko": "Hanki alaikäisen kuljettajan tunnus ajoissa",
+    "sisalto": "Lokakuun 1. päivä 2026 alkaen kaikkien 17-vuotiaiden kuljettajien on pakko käyttää autossa erityistä tunnusta. Tunnus kiinnitetään auton takaosaan. Ilman tunnusta ajamisesta voi saada liikennevirhemaksun.",
+    "pvm": "2026-10-01",
+    "lahde": "https://www.traficom.fi/fi/ajankohtaista"
+  },
+  {
+    "id": "sahkoinen-opetuslupa",
+    "otsikko": "Opetusluvan voi nyt näyttää puhelimesta",
+    "sisalto": "Paperista lupaa ei ole enää pakko pitää mukana. Voit näyttää opetusluvan tai ikäpoikkeusluvan poliisille sähköisesti. Suomi.fi-palvelun kautta saatu viesti kelpaa nyt viralliseksi tositteeksi.",
+    "pvm": "2026-05-29",
+    "lahde": "https://www.suomi.fi/viestit"
+  },
+  {
+    "id": "ikapoikkeuslupa-ehdot",
+    "otsikko": "Näin haet ikäpoikkeuslupaa uusilla säännöillä",
+    "sisalto": "Poikkeusluvan saaminen on nyt tiukempaa. Matkan kouluun tai harrastukseen pitää olla yli 7 kilometriä suuntaansa. Julkisilla kulkiessa matkan pitää kestää yli 1,5 tuntia. Matkoja täytyy myös olla vähintään neljästi viikossa.",
+    "pvm": "2026-05-29",
+    "lahde": "https://www.traficom.fi/fi/liikenne/tieliikenne/ikapoikkeuslupa"
+  },
+  {
+    "id": "rtk-laajenee",
+    "otsikko": "RTK-koulutus pitenee lokakuussa — toimi nopeasti!",
+    "sisalto": "Riskientunnistamiskoulutus (RTK) laajenee 1.10.2026 alkaen. Koulutukseen tulee kolme teoriatuntia ja yksi ajotunti lisää. Jos haluat suorittaa koulutuksen vanhoilla säännöillä, varaa aikasi ennen lokakuuta.",
+    "pvm": "2026-10-01",
+    "lahde": "https://www.traficom.fi/fi/ajankohtaista"
+  }
+]
