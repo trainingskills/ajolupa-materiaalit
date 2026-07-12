@@ -1,0 +1,57 @@
+# Estää MD-oppituntien / markdownin päätymisen JULKISEEN materiaalirepoon.
+# Julkinen repo saa sisältää vain audio-/mediamateriaalia (podcast, slidet) +
+# launch-sivuston. Oppituntien MD-sisältö kuuluu VAIN yksityiseen ajolupa-repoon.
+# Portti kaatuu, jos repossa on mikä tahansa .md-tiedosto joka ei ole sallittujen listalla.
+name: Estä MD-oppitunnit
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  ei-md-oppitunteja:
+    name: Tarkista ettei MD-oppitunteja ole
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Skannaa markdown-tiedostot
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Ainoat sallitut markdown-tiedostot (kaikki muu .md kaataa portin).
+          # Lisää tähän harkiten, jos jokin ei-oppituntimarkdown on aidosti tarpeen.
+          ALLOW=(
+            "docs/README.md"
+            "YLLAPITO.md"
+          )
+
+          # Kaikki seuratut .md-tiedostot (mikä tahansa hakemistotaso).
+          mapfile -t MD < <(git ls-files '*.md' '*.MD' '*.markdown')
+
+          rikkovat=()
+          for f in "${MD[@]:-}"; do
+            [ -z "$f" ] && continue
+            ok=0
+            for a in "${ALLOW[@]}"; do
+              [ "$f" = "$a" ] && ok=1 && break
+            done
+            [ "$ok" -eq 0 ] && rikkovat+=("$f")
+          done
+
+          if [ "${#rikkovat[@]}" -gt 0 ]; then
+            echo "::error::Julkiseen materiaalirepoon ei saa lisätä MD-oppitunteja eikä muuta markdownia (paitsi sallitut)."
+            echo "Kielletyt markdown-tiedostot:"
+            printf '  - %s\n' "${rikkovat[@]}"
+            echo ""
+            echo "Sallitut: ${ALLOW[*]}"
+            echo "Oppituntien MD-sisältö kuuluu vain yksityiseen ajolupa-repoon."
+            echo "Poista tiedostot repostosta tai (harkiten) lisää polku ALLOW-listaan tässä workflowssa."
+            exit 1
+          fi
+
+          echo "OK — ei kiellettyä markdownia. Sallitut: ${ALLOW[*]}"
