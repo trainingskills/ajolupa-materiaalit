@@ -1,0 +1,92 @@
+[
+  {
+    "id": "kytkin-tartunta",
+    "otsikko": "Kytkimen tartuntapiste",
+    "teksti": "Nosta kytkintä hitaasti kunnes auto 'nyökkää' — siinä se on. Pidä jalka siinä hetki ennen kaasua. Harjoittele 10 kertaa parkkipaikalla, niin jalka oppii.",
+    "tunti": 1
+  },
+  {
+    "id": "peilien-saato",
+    "otsikko": "Peilit oikein 10 sekunnissa",
+    "teksti": "Sivupeilit niin, ettei oman auton kylkeä juuri näy — katvealue pienenee puolella. Sisäpeilistä koko takaikkuna.",
+    "tunti": 1
+  },
+  {
+    "id": "turvavali-3s",
+    "otsikko": "3 sekunnin turvaväli",
+    "teksti": "Kun edellä ajava ohittaa merkin, laske 'yksi-tuhat-kaksi-tuhat-kolme'. Jos ehdit merkille aiemmin, olet liian lähellä.",
+    "tunti": 3
+  },
+  {
+    "id": "taskuparkki-kaava",
+    "otsikko": "Taskuparkki kaavalla",
+    "teksti": "Peruuta kunnes takarengas on parkkiauton takapuskurin kohdalla → ratti täysille → kun kulma näkyy keskipeilissä → ratti suoraan → suorista lopuksi.",
+    "tunti": 2
+  },
+  {
+    "id": "makilahto",
+    "otsikko": "Mäkilähtö ilman rullausta",
+    "teksti": "Käsijarru päälle. Kytkin tartuntapisteeseen, kevyt kaasu, ja vapauta käsijarru vasta kun auto 'vetää' eteenpäin.",
+    "tunti": 2
+  },
+  {
+    "id": "kiertoliittyma-vilkku",
+    "otsikko": "Kiertoliittymän vilkku",
+    "teksti": "Sisään ilman vilkkua (paitsi jos kääntyy heti oikealle) — ULOS aina oikea vilkku. Se kertoo muille aikeesi.",
+    "tunti": 5
+  },
+  {
+    "id": "ryhmittyminen",
+    "otsikko": "Ryhmity ajoissa",
+    "teksti": "Valitse kaista jo 200 m ennen risteystä. Myöhäinen kaistanvaihto risteyksessä on inssin klassikkovirhe.",
+    "tunti": 4
+  },
+  {
+    "id": "vaistamis-kolmio",
+    "otsikko": "Kärkikolmio = väistä",
+    "teksti": "Kolmio tarkoittaa: väistä KAIKKIA risteävän tien ajoneuvoja — myös vasemmalta tulevia. Ilman kolmiota: väistä oikealta tulevia.",
+    "tunti": 4
+  },
+  {
+    "id": "moottoritie-liittyminen",
+    "otsikko": "Moottoritielle liittyminen",
+    "teksti": "Kiihdytä liittymiskaistalla liikennevirran nopeuteen ÄLÄ pysähdy. Peili-peili-katve, ja sulaudu virtaan.",
+    "tunti": 7
+  },
+  {
+    "id": "liukas-jarrutus",
+    "otsikko": "Jarrutus liukkaalla",
+    "teksti": "Paina jarru pohjaan ja anna ABS:n hoitaa — älä pumppaa. Ohjaa samalla minne haluat mennä, ei sinne mitä pelkäät.",
+    "tunti": 8
+  },
+  {
+    "id": "pimea-katse",
+    "otsikko": "Pimeällä katse kauas",
+    "teksti": "Vastaantulijan häikäistessä katso oikeaan reunaviivaan, älä valoihin. Silmät palautuvat nopeammin.",
+    "tunti": 8
+  },
+  {
+    "id": "taloudellinen-rullaus",
+    "otsikko": "Rullaa vaihde päällä",
+    "teksti": "Nosta jalka kaasulta ajoissa ennen valoja — moottorijarrutus vaihde päällä kuluttaa 0 l/100km. Vapaalla rullaus kuluttaa enemmän.",
+    "tunti": 9
+  },
+  {
+    "id": "inssi-aani",
+    "otsikko": "Sano havaintosi ääneen inssissä",
+    "teksti": "'Huomioin suojatien, pyöräilijä oikealla.' Ääneen puhuminen näyttää tutkijalle että havainnoit — ja rauhoittaa sinua.",
+    "tunti": 10
+  },
+  {
+    "id": "renkaan-paine",
+    "otsikko": "Rengaspaineet kuukausittain",
+    "teksti": "Oikea paine (kuljettajan oven pielessä) = lyhyempi jarrutusmatka, pienempi kulutus, tasainen kuluminen. Tarkista kylmänä.",
+    "tunti": 9
+  },
+  {
+    "id": "ajoasento",
+    "otsikko": "Ajoasento kuntoon ensin",
+    "teksti": "Ranne taipuu ratin päälle kyynärvarsi suorana, polvi jää koukkuun jarru pohjassa. Hyvä asento = tarkempi hallinta.",
+    "tunti": 1
+  }
+]

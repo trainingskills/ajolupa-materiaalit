@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ratina-parkki",
+    "nimi": "Ratinan pysäköintialue",
+    "kuvaus": "Iltaisin rauhallinen asfalttikenttä — täydellinen taskuparkin ja peruutuksen treenaamiseen.",
+    "lat": 61.4934,
+    "lon": 23.7638,
+    "tyyppi": "kentta",
+    "tunti": 2
+  },
+  {
+    "id": "pirkkahalli-kentta",
+    "nimi": "Pirkkahallin kenttä",
+    "kuvaus": "Laaja avoin alue liikkeellelähdön ja hallintalaitteiden harjoitteluun ilman häiriöitä.",
+    "lat": 61.4838,
+    "lon": 23.6702,
+    "tyyppi": "kentta",
+    "tunti": 1
+  },
+  {
+    "id": "hervanta-parkki",
+    "nimi": "Hervannan Duon parkkitalo (katto)",
+    "kuvaus": "Ramppiharjoittelu ja ahtaat kaistat — mäkilähtö rampissa on tehokas treeni.",
+    "lat": 61.4501,
+    "lon": 23.8516,
+    "tyyppi": "kentta",
+    "tunti": 2
+  },
+  {
+    "id": "hatanpaa-valtatie",
+    "nimi": "Hatanpään valtatien risteys",
+    "kuvaus": "Monikaistainen valo-ohjattu risteys — ryhmittyminen ja kaistanvalinta vaativat tarkkuutta.",
+    "lat": 61.4884,
+    "lon": 23.7729,
+    "tyyppi": "risteys",
+    "tunti": 4
+  },
+  {
+    "id": "kaleva-kehatie",
+    "nimi": "Kalevan kiertoliittymät",
+    "kuvaus": "Kaksikaistaisia kiertoliittymiä peräkkäin — vilkun käyttö ja kaistakuri punnitaan.",
+    "lat": 61.5006,
+    "lon": 23.8095,
+    "tyyppi": "risteys",
+    "tunti": 5
+  },
+  {
+    "id": "pispala-tasa-arvo",
+    "nimi": "Pispalan tasa-arvoiset risteykset",
+    "kuvaus": "Kapeita katuja ja tasa-arvoisia risteyksiä mäessä — väistämissäännöt ja mäkilähdöt samassa.",
+    "lat": 61.5049,
+    "lon": 23.7247,
+    "tyyppi": "risteys",
+    "tunti": 4
+  },
+  {
+    "id": "teisko-ajorata",
+    "nimi": "Teiskon ajoharjoittelurata",
+    "kuvaus": "Liukkaan kelin ajorata — RTK:n ratavaatimukset ja talviajon harjoittelu.",
+    "lat": 61.6851,
+    "lon": 23.9457,
+    "tyyppi": "rata",
+    "tunti": 8
+  },
+  {
+    "id": "ajovarma-sarankulma",
+    "nimi": "Ajovarma Tampere-Sarankulma",
+    "kuvaus": "Teoriakoe ja ajokoe tehdään täältä — inssireittien lähtöpiste. Käy tutustumassa etukäteen.",
+    "lat": 61.4682,
+    "lon": 23.7428,
+    "tyyppi": "tutkinto",
+    "tunti": 10
+  }
+]

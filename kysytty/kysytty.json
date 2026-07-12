@@ -1,0 +1,158 @@
+[
+  {
+    "id": "sammuu-valoihin",
+    "kategoria": "Ajaminen ja mokat",
+    "kysymys": "Mitä jos auto sammuu liikennevaloihin?",
+    "vastaus": "Ei hätää — näin käy ihan kaikille, myös niille jotka ovat ajaneet 20 vuotta. Käsijarru päälle, kytkin pohjaan, käynnistä rauhassa ja lähde uudestaan. Takana tuuttaava ei ole sinun ongelmasi: hän on itsekin sammuttanut autonsa joskus."
+  },
+  {
+    "id": "vaara-kaista",
+    "kategoria": "Ajaminen ja mokat",
+    "kysymys": "Ajoin väärälle kaistalle risteyksessä — mitä teen?",
+    "vastaus": "Jatka rauhallisesti sinne minne kaista vie, ÄLÄ tee paniikkisiirtoa kesken risteyksen. Väärä suunta korjataan seuraavassa liittymässä. Navigaattorikin sanoo vain 'reitti lasketaan uudelleen' — tee samoin."
+  },
+  {
+    "id": "sammutus-maki",
+    "kategoria": "Ajaminen ja mokat",
+    "kysymys": "Sammutan auton aina ylämäkeen. Olenko toivoton?",
+    "vastaus": "Et todellakaan. Mäkilähtö on koko manuaalivaihteiston vaikein temppu. Harjoittele tyhjällä parkkipaikalla kytkimen tartuntapistettä: nosta kytkintä kunnes auto 'nyökkää', pidä siinä, lisää vähän kaasua. Kymmenen toistoa ja kroppa oppii sen."
+  },
+  {
+    "id": "peruutus-pelottaa",
+    "kategoria": "Ajaminen ja mokat",
+    "kysymys": "Peruuttaminen tuntuu mahdottomalta. Vinkkejä?",
+    "vastaus": "Katso sinne minne peruutat (niska kääntyy, ei vain peilit), kulje kävelyvauhtia ja muista että renkaat kääntyvät 'väärinpäin'. Taskuparkki opitaan kaavalla, ei näppituntumalla — tunti 2:n ohjeessa on tarkat kohdistuspisteet."
+  },
+  {
+    "id": "moka-inssiajossa",
+    "kategoria": "Ajaminen ja mokat",
+    "kysymys": "Kuoletin auton kolme kertaa samalla tunnilla. Normaalia?",
+    "vastaus": "Täysin. Väsymys, jännitys ja uusi tilanne tekevät jaloista puuroa. Kirjaa se debriefiin (sovellus ei tuomitse) ja huomaat parin viikon päästä, ettei sitä enää tapahdu."
+  },
+  {
+    "id": "inssi-virheet",
+    "kategoria": "Inssi ja kokeet",
+    "kysymys": "Saako inssissä tehdä virheitä ja silti päästä läpi?",
+    "vastaus": "Saa. Inssi ei etsi täydellistä suoritusta vaan turvallista ja itsenäistä kuljettajaa. Pienet virheet (vaihde unohtuu, pysäköinti vähän vinoon) eivät hylkää, jos korjaat ne hallitusti. Hylkäys tulee vaaratilanteista ja toistuvasta epävarmuudesta.",
+    "lahde": "https://ajokortti-info.fi"
+  },
+  {
+    "id": "teoriakoe-virheet",
+    "kategoria": "Inssi ja kokeet",
+    "kysymys": "Kuinka monta virhettä teoriakokeessa saa tulla?",
+    "vastaus": "B-luokan teoriakokeessa on 50 väittämää ja 10 kuvatehtävää. Virheitä saa tulla rajallisesti osioittain — käytännössä noin 80 % pitää mennä oikein. Treenaa sovelluksen teoriakoetreenillä: kun saat harjoituksissa toistuvasti yli 90 %, olet valmis.",
+    "lahde": "https://ajovarma.fi"
+  },
+  {
+    "id": "inssi-jannitys",
+    "kategoria": "Inssi ja kokeet",
+    "kysymys": "Entä jos mokaan heti inssin alussa?",
+    "vastaus": "Yksi moka alussa ei hylkää — tutkinnon vastaanottaja katsoo kokonaisuutta. Moni on päässyt läpi vaikka lähtö parkista meni uusiksi. Hengitä, kuittaa itsellesi 'okei, se oli siinä' ja aja loppu niin kuin osaat."
+  },
+  {
+    "id": "inssi-reitti",
+    "kategoria": "Inssi ja kokeet",
+    "kysymys": "Voiko inssireittiin tutustua etukäteen?",
+    "vastaus": "Voi ja kannattaa! Sovelluksen Inssireitit-työkalussa on Tampereen oikeita tutkintoreittejä harjoituspisteineen. Aja ne kenraaliharjoituksena — tuttu ympäristö pudottaa jännityksestä puolet."
+  },
+  {
+    "id": "hylsy-mita-sitten",
+    "kategoria": "Inssi ja kokeet",
+    "kysymys": "Sain hylsyn. Mitä nyt?",
+    "vastaus": "Harmittaa, ja saa harmittaa — hetken. Sitten: lue hylkäysperusteet (saat ne kirjallisena), treenaa juuri ne kohdat, ja varaa uusi aika. Uusintaan pääsee nopeasti eikä hylsy näy missään rekisterissä lopun elämää. Moni huippukuski on reputtanut kerran."
+  },
+  {
+    "id": "opetuslupa-mukana",
+    "kategoria": "Luvat ja paperit",
+    "kysymys": "Pitääkö opetuslupa olla aina mukana autossa?",
+    "vastaus": "Sähköinen riittää nykyään: Suomi.fi-viesti luvasta kelpaa poliisille. Sovelluksen profiiliin voi tallentaa kuvan luvasta, niin se on aina taskussa. Opetuskolmio takalasiin ja lisäpeili — ne ovat ne fyysiset pakolliset.",
+    "lahde": "https://www.traficom.fi"
+  },
+  {
+    "id": "kuka-saa-opettaa",
+    "kategoria": "Luvat ja paperit",
+    "kysymys": "Voiko meillä olla useampi opettaja?",
+    "vastaus": "Voi — opetuslupa myönnetään opettajakohtaisesti, ja yhdellä oppilaalla voi olla useampi luvan saanut opettaja (esim. molemmat vanhemmat). Sovellus tukee kolmea opettajaa, ja tunnin alussa valitaan kuka opettaa."
+  },
+  {
+    "id": "ajokorttilupa-milloin",
+    "kategoria": "Luvat ja paperit",
+    "kysymys": "Milloin ajokorttilupa pitää hakea?",
+    "vastaus": "Aikaisintaan kun oppilas täyttää 16 v 8 kk — ja se kannattaa hakea heti silloin, koska ilman sitä ei pääse teoriakokeeseen. Sovellus muistuttaa tästä automaattisesti kun syntymäaika on profiilissa.",
+    "lahde": "https://www.traficom.fi"
+  },
+  {
+    "id": "eas-pakollinen",
+    "kategoria": "Luvat ja paperit",
+    "kysymys": "Onko EAS-koulutus oikeasti pakollinen?",
+    "vastaus": "On, jos oppilaalla ei ole ennestään ajokorttia (mopokortti ei vapauta). 4 tuntia teoriaa, saa suorittaa verkossa, hinta 30–80 €. Käy se ennen ensimmäistä ajotuntia niin homma etenee laillisesti alusta asti.",
+    "lahde": "https://www.traficom.fi"
+  },
+  {
+    "id": "tunnus-takalasiin",
+    "kategoria": "Luvat ja paperit",
+    "kysymys": "Mikä on uusi 17-vuotiaiden kuljettajatunnus?",
+    "vastaus": "1.10.2026 alkaen poikkeusluvalla ajava 17-vuotias tarvitsee auton takaosaan erityisen tunnuksen. Ilman sitä voi napsahtaa liikennevirhemaksu. Katso Viikkokatsaus-osiosta tuoreimmat lakitiedot.",
+    "lahde": "https://www.traficom.fi"
+  },
+  {
+    "id": "jannittaa-liikaa",
+    "kategoria": "Jännitys ja fiilis",
+    "kysymys": "Jännittää niin ettei pysty ajamaan. Mitä tehdä?",
+    "vastaus": "Ensinnäkin: jännitys on normaalia ja se HELPOTTAA joka kerralla. Kokeile: 1) lyhyemmät tunnit alkuun (30 min riittää), 2) tuttu rauhallinen reitti, 3) valitse CO-traineriksi Teppo Terapeutti — hän on rakennettu juuri jännittäjille, 4) hengitä ulos pidempään kuin sisään ennen liikkeellelähtöä."
+  },
+  {
+    "id": "vanhempi-hermostuu",
+    "kategoria": "Jännitys ja fiilis",
+    "kysymys": "Äiti/isä hermostuu opettaessa. Apua?",
+    "vastaus": "Klassikko-ongelma! Vinkit: sopikaa etukäteen että opettaja kommentoi vasta tilanteen JÄLKEEN (ei kesken), pitäkää tunnit lyhyinä, ja käyttäkää sovelluksen tuntirunkoja — kun on valmis suunnitelma, ei tarvitse väitellä siitä mitä tehdään. Debriefissä molemmat saavat sanoa fiiliksensä."
+  },
+  {
+    "id": "kaverit-edella",
+    "kategoria": "Jännitys ja fiilis",
+    "kysymys": "Kaverit saivat kortin jo. Olen jäljessä. Ahdistaa.",
+    "vastaus": "Et ole kilparadalla. Joku saa kortin 18-vuotispäivänä, joku 19-vuotiaana — viiden vuoden päästä kukaan ei muista eikä kysy. Sinun tahtisi on oikea tahti, ja huolellinen harjoittelu näkyy vakuutuslaskussa ja kolarittomuudessa vielä pitkään."
+  },
+  {
+    "id": "huono-paiva",
+    "kategoria": "Jännitys ja fiilis",
+    "kysymys": "Tänään meni ihan penkin alle. Lopetanko?",
+    "vastaus": "Et. Huonot päivät kuuluvat oppimiseen — aivot konsolidoivat taitoja myös epäonnistumisista. Kirjaa päivän moka debriefiin, pidä pari päivää taukoa ja palaa. Seuraava tunti tuntuu lähes aina paremmalta kuin pelkäsit."
+  },
+  {
+    "id": "pimealla-pelottaa",
+    "kategoria": "Jännitys ja fiilis",
+    "kysymys": "Pimeällä ajaminen pelottaa. Pakko harjoitella?",
+    "vastaus": "Kannattaa, koska Suomessa ajetaan puolet vuodesta hämärässä — mutta tee se portaittain: ensin hämärä ilta tutulla reitillä, sitten pimeä parkkipaikka valojen käyttöharjoitteluun, vasta sitten maantie. Sääsoturi- ja Pimeän taituri -merkit odottavat!"
+  },
+  {
+    "id": "paljonko-maksaa",
+    "kategoria": "Raha",
+    "kysymys": "Paljonko opetuslupa oikeasti maksaa vs. autokoulu?",
+    "vastaus": "Opetuslupapolku: lupa ~30 €, EAS 30–80 €, RTK 250–350 €, kokeet ~140 €, muutoskatsastus ~50 € + polttoaineet ≈ 700–900 €. Autokoulu: tyypillisesti 1 500–2 500 €. Säästö on todellinen, mutta suurin hyöty on määrä: opetusluvalla ajetaan yleensä 3–5× enemmän harjoitustunteja."
+  },
+  {
+    "id": "rtk-hinta",
+    "kategoria": "Raha",
+    "kysymys": "Miksi RTK maksaa niin paljon?",
+    "vastaus": "RTK sisältää teoriaa JA ajoa oikealla radalla (liukas + pimeä) autokoulun autolla ja opettajalla — siitä hinta 250–350 €. HUOM: koulutus laajenee 1.10.2026 ja hinta todennäköisesti nousee — varaa ennen lokakuuta jos mahdollista."
+  },
+  {
+    "id": "vakuutus-nuori",
+    "kategoria": "Raha",
+    "kysymys": "Nousevatko vakuutukset kun nuori alkaa ajaa?",
+    "vastaus": "Harjoitteluvaiheessa opettajan vakuutus kattaa ajon (auto on opettajan/perheen). Oman kortin jälkeen nuoren oma vakuutus on kallis ensimmäiset vuodet — mutta vahingoton harjoittelu ja bonukset laskevat sitä nopeasti. Kysy tarjous Kumppaniedut-välilehden kautta."
+  },
+  {
+    "id": "polttoaine-sastot",
+    "kategoria": "Raha",
+    "kysymys": "Miten harjoittelusta saa halvempaa?",
+    "vastaus": "Yhdistä ajot arkiajoihin (kauppa, harrastukset — matka on ilmainen oppitunti), aja taloudellisen ajon tunti (t9) tosissaan, ja hyödynnä Kumppaniedut (katsastus, tarvikkeet). Tankkaus kannattaa tehdä oppilaan harjoituksena — sekin on osa ajotaitoa."
+  },
+  {
+    "id": "auton-varustelu-hinta",
+    "kategoria": "Raha",
+    "kysymys": "Paljonko auton varustelu opetusautoksi maksaa?",
+    "vastaus": "Opetuspoljinsarja 50–150 € + asennus (tai itse, jos osaat), lisäpeili 10–30 €, opetuskolmio ~10 €, muutoskatsastus ~40–60 €. Yhteensä realistisesti 150–300 €. Polkimet saa myytyä käytettynä eteenpäin kun kortti on plakkarissa."
+  }
+]
