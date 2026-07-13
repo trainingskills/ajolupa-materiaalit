@@ -1,5 +1,19 @@
 [
   {
+    "id": "kesaharjoittelu-valoisat",
+    "otsikko": "Kesä on parasta harjoitteluaikaa — hyödynnä valoisat illat",
+    "sisalto": "Pitkät valoisat illat ja hiljaiset tiet tekevät kesästä opetusluvan kulta-aikaa. Lomamatka on hyvä tilaisuus harjoitella maantieajoa, ohituksia ja soratietä. Muista hirvivaara-alueet iltahämärässä ja pidä harjoittelutahti tasaisena myös loman aikana.",
+    "pvm": "2026-07-13",
+    "lahde": "https://www.liikenneturva.fi/"
+  },
+  {
+    "id": "inssiajat-loppukesa",
+    "otsikko": "Inssiajat ruuhkautuvat loppukesästä — varaa aika ajoissa",
+    "sisalto": "Elo–syyskuu on ajokokeiden ruuhkaisinta aikaa, kun kesän harjoittelijat valmistuvat yhtä aikaa. Jos tähtäät inssiin syksyllä, varaa ajokoeaika Ajovarmalta jo nyt — ajan voi tarvittaessa siirtää. Tarkista samalla, että RTK ja muut pakolliset ovat suoritettuina.",
+    "pvm": "2026-07-06",
+    "lahde": "https://ajovarma.fi/"
+  },
+  {
     "id": "yoajokielto-17v",
     "otsikko": "Uusi laki: Yöajo on nyt kielletty 17-vuotiailta!",
     "sisalto": "Hallituksen uusi ajokorttilaki astui voimaan 29.5.2026. Jos saat kortin 17-vuotiaana poikkeusluvalla, et saa ajaa autoa klo 00–05 välisenä aikana. Kielto koskee kaikkia 17-vuotiaita. Rangaistuksena on sakko ja ajokielto.",
